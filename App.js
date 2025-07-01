@@ -6,7 +6,7 @@ import { BlurView } from 'expo-blur';
 export default function App() {
   return (
     <LinearGradient
-      colors={['#D1C4E9', '#BBDEFB', '#C8E6C9']}  // ม่วง ฟ้า เขียวอ่อน
+      colors={['#D1C4E9', '#BBDEFB', '#C8E6C9']} 
       style={styles.container}
     >
       <ScrollView contentContainerStyle={styles.scrollContent}>
